@@ -70,7 +70,7 @@ const Hero = () => {
               className="z-10 p-4 font-bold text-gray-200 border border-purple-400 cursor-pointer md:w-auto rounded-xl"
             >
               <a
-                href="https://drive.google.com/file/d/1roHFEc3jzhK5YCOTnG5vT4q9G1Z2Oy0k/view"
+                href="https://drive.google.com/file/d/1roHFEc3jzhK5YCOTnG5vT4q9G1Z2Oy0k/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
