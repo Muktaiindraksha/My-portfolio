@@ -70,7 +70,7 @@ const Hero = () => {
               className="z-10 p-4 font-bold text-gray-200 border border-purple-400 cursor-pointer md:w-auto rounded-xl"
             >
               <a
-                href="https://drive.google.com/file/d/1co2znzJkDrXh805dckvpK8-71nfN5dRe/view?usp=sharing"
+                href="https://drive.google.com/file/d/1roHFEc3jzhK5YCOTnG5vT4q9G1Z2Oy0k/view"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -90,7 +90,7 @@ const Hero = () => {
 
               <motion.a
                 whileHover={{ scale: 1.1}}
-                href="https://www.linkedin.com/in/muktai-indraksha-8b77b523a/"
+                href="https://drive.google.com/file/d/1roHFEc3jzhK5YCOTnG5vT4q9G1Z2Oy0k/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
